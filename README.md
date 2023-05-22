@@ -1,4 +1,4 @@
-# Printer Config
+# TomPrint 9000 Configuration
 
 Config for my heavily customised printer. Originally a first generation Ender 3, the only remaining parts
 are around 2/3 of the frame, the PSU, display, and housing for the motherboard.
@@ -18,3 +18,4 @@ Upgrades are:
 * Bed insulation and cable relocation to drag chain
 * Frame reinforcement (aluminium plates and bracket braces for additional stiffness)
 
+![alt text](printer.jpg)
