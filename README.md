@@ -13,4 +13,7 @@ Upgrades are:
 * Hemera direct drive extruder with 40W Revo nozzle / heater combo
 * Dual Z axis, belt drive connecting matched custom Z mounts with ACME anti-backlash blocks
 * Relocated spool holder, isolation mounts
+* Rigid bed mounts
+* Magnetic PEI build plate
+* Bed insulation and cable relocation to drag chain
 
